@@ -4,4 +4,4 @@
 Atte Ampuja
 
 ### Kuvaus
-Repositorio sisältää kurssin Git-versionhallinta kurssitehtävä 1-7.
+Repositorio sisältää kurssin Git-versionhallinta kurssitehtävät 1-7.
